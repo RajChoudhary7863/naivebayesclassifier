@@ -34,8 +34,7 @@ The formula for Bayes' theorem is given as:
 -Visualizing the test set result.
 
 ## Data Used :
-  	Salary dataset:- To Prepare a classification model using Naive Bayes for salary dataset.
-    Iris dataset:- To Classify Species using Naive Bayes
+  	
     Diabetes dataset:- To Classify Diabetes using Naive Bayes
 
 
